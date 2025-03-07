@@ -1,3 +1,6 @@
 "# My First Repository" 
-"This is my first GitHub repository." 
-"This change was made in the main branch."
+"This is my first GitHub repository" 
+
+"This change includes updates from both branches"
+
+
